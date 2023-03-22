@@ -1,1 +1,1 @@
-this is the file that I write in nano from terminal
+this is the first file I do on  VS code through git_class
