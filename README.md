@@ -6,5 +6,10 @@ this is an exercice for the Git 2023 class
 #I removed the first gif because it wasn't working
 
 ![https://media1.giphy.com/media/0NwSQpGY6ipgOSt8LL/giphy.gif](https://media1.giphy.com/media/0NwSQpGY6ipgOSt8LL/giphy.gif)
+<<<<<<< HEAD
  
 This is another local edit
+=======
+
+this is my new edit online
+>>>>>>> refs/remotes/origin/main
