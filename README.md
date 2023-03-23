@@ -7,6 +7,4 @@ this is an exercice for the Git 2023 class
 
 ![https://media1.giphy.com/media/0NwSQpGY6ipgOSt8LL/giphy.gif](https://media1.giphy.com/media/0NwSQpGY6ipgOSt8LL/giphy.gif)
  
-another line
-
-This is a local edit
+This is another local edit
